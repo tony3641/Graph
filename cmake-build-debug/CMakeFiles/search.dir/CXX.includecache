@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tony3/search/Graph.h
+iostream
+-
+bits/stdc++.h
+-
+
+C:/Users/tony3/search/main.cpp
+iostream
+-
+Graph.h
+C:/Users/tony3/search/Graph.h
+
