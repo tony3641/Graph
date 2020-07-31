@@ -11,7 +11,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac640e5-18a1-4cc4-89c7-5fd33bc24aa7" name="Default Changelist" comment="" />
+    <list default="true" id="7ac640e5-18a1-4cc4-89c7-5fd33bc24aa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/Graph.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/Graph.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/search.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/search.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +32,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cOq1kbANYunBbXYPS9hpuW5sMi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -53,7 +69,7 @@
       <workItem from="1590409775948" duration="8345000" />
       <workItem from="1592231511089" duration="657000" />
       <workItem from="1596131533685" duration="612000" />
-      <workItem from="1596212790969" duration="289000" />
+      <workItem from="1596212790969" duration="6597000" />
     </task>
     <servers />
   </component>
@@ -61,45 +77,57 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1342" height="302" key="GridCell.Tab.0.bottom" timestamp="1590424312269">
+    <state x="478" y="55" key="CommitChangelistDialog2" timestamp="1596219460830">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1590424312269" />
-    <state width="1342" height="302" key="GridCell.Tab.0.center" timestamp="1590424312269">
+    <state x="478" y="55" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1596219460830" />
+    <state width="1663" height="184" key="GridCell.Tab.0.bottom" timestamp="1596219460889">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1590424312269" />
-    <state width="1342" height="302" key="GridCell.Tab.0.left" timestamp="1590424312269">
+    <state width="1663" height="184" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1596219460889" />
+    <state width="1663" height="184" key="GridCell.Tab.0.center" timestamp="1596219460889">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1590424312269" />
-    <state width="1342" height="302" key="GridCell.Tab.0.right" timestamp="1590424312269">
+    <state width="1663" height="184" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1596219460889" />
+    <state width="1663" height="184" key="GridCell.Tab.0.left" timestamp="1596219460889">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1590424312269" />
-    <state width="1342" height="302" key="GridCell.Tab.1.bottom" timestamp="1590424312270">
+    <state width="1663" height="184" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1596219460889" />
+    <state width="1663" height="184" key="GridCell.Tab.0.right" timestamp="1596219460889">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1590424312270" />
-    <state width="1342" height="302" key="GridCell.Tab.1.center" timestamp="1590424312270">
+    <state width="1663" height="184" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1596219460889" />
+    <state width="985" height="276" key="GridCell.Tab.1.bottom" timestamp="1596215809127">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1590424312270" />
-    <state width="1342" height="302" key="GridCell.Tab.1.left" timestamp="1590424312269">
+    <state width="985" height="276" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1596215809127" />
+    <state width="985" height="276" key="GridCell.Tab.1.center" timestamp="1596215809127">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1590424312269" />
-    <state width="1342" height="302" key="GridCell.Tab.1.right" timestamp="1590424312270">
+    <state width="985" height="276" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1596215809127" />
+    <state width="985" height="276" key="GridCell.Tab.1.left" timestamp="1596215809127">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1342" height="302" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1590424312270" />
+    <state width="985" height="276" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1596215809127" />
+    <state width="985" height="276" key="GridCell.Tab.1.right" timestamp="1596215809127">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="985" height="276" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1596215809127" />
     <state x="444" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1596212792404">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="444" y="274" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1596212792404" />
+    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596219396948">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1596219396948" />
     <state x="416" y="196" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590421206572">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="416" y="196" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1707.920@0.0.1707.920" timestamp="1590421206572" />
+    <state x="1015" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1596215362721">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="1015" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1596215362721" />
   </component>
 </project>
